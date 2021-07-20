@@ -14,7 +14,7 @@ import { Col, Row } from "react-styled-flexboxgrid";
 export default function App() {
   return (
     <Wrapper>
-      <Image src="./Images/cat.png" />
+      <Image src="./Images/kM5C-cat.png" />
 
       <Title>Adopt an Email Pet</Title>
       <Text>
